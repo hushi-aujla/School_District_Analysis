@@ -1,8 +1,8 @@
 # School_District_Analysis
-Project overview
+## Project overview
 
-Resources
+## Resources
 
-Results
+## Results
 
-Summary
+## Summary
